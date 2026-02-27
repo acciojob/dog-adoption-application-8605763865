@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+option{
+	color:red;
+	background-color:aqua;
+}
+input{
+	margin:10px;
+	padding:3px;
+	
+}
